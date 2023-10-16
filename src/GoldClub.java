@@ -1,4 +1,8 @@
 public class GoldClub extends MovieClub {
+    /***
+     * Stores the price of the ticket to movieclub
+     * @param price Price of ticket
+     */
     public GoldClub(double price) {
         super.setTicketPrice(price);
     }

@@ -1,4 +1,8 @@
 public class PlatinumClub extends MovieClub {
+    /***
+     * Stores the price of the ticket to movieclub
+     * @param price Price of ticket
+     */
     public PlatinumClub(double price) {
         super.setTicketPrice(price);
     }

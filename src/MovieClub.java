@@ -1,3 +1,6 @@
+/***
+ * Holds ticket price info
+ */
 public abstract class MovieClub {
     private double ticketPrice = 25;
 

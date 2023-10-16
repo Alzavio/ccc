@@ -1,4 +1,8 @@
 public class PlatinumPlus extends PlatinumClub {
+    /***
+     * Overrides Platinum Club info with plat plus
+     * @param price Price of ticket
+     */
     public PlatinumPlus(double price) {
         super(price);
     }
