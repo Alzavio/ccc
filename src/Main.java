@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /***
  * Asks for the cost of the tickets, and generates club information including the ticket cost for each type of club
- * @param args
  */
 public class Main {
     public static void main(String[] args) {
